@@ -23,6 +23,9 @@
     
 
 }
+.management a{
+    color: #10816b;
+}
 
 .contactUs .title
 {
@@ -31,8 +34,8 @@
     align-items:center;
 }
 .contactUs .title h2 {
-    color: rgb(13, 35, 235);
-    font-weight: 500;
+    color: #3c4952;
+    
 }
 
 .contact {
